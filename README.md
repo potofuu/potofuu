@@ -10,7 +10,6 @@
   and frontend development.  
 - In my free time, I enjoy playing tennis, practicing piano, and reading.
 
-
 <div>
   <h3> 💻 Technology </h3>
   <p>
@@ -22,14 +21,12 @@
   <p>
 </div> 
 
-
 <div>
   <h3> 🌱 Learning </h3>
   <img src="https://i.redd.it/tu3gt6ysfxq71.png" width="50">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" width="50">
-  
-    
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" width="50"> 
 </div>
+
 <div>
   <h3> 📪 Contact </h3>
   <a href="https://www.instagram.com/dan.duan/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="30"></a>
