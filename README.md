@@ -4,7 +4,7 @@
 <img width = "35%" align="right" alt="PIC" height="300px" src="https://c.tenor.com/ee-uSWWIE28AAAAi/cute-penguin.gif" /> 
   </div>
 
-####  About Me: 
+####  👨‍💻 About Me: 
 - I am a first year student at Georgia Tech, studying CS with threads(focus) in intelligence and media.  
 - I am interested AI/machine learning, data science, 
   and frontend development.  
@@ -31,7 +31,7 @@
     
 </div>
 <div>
-  <h3> Contact </h3>
+  <h3> 📪 Contact </h3>
   <a href="https://www.instagram.com/dan.duan/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="30"></a>
   <a href="https://www.linkedin.com/in/dlduan/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a>
   <a href="https://github.com/potofuu" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="30"></a>
