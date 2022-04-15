@@ -1,6 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&color=%36BCF7FF&vCenter=true&lines=Hi,+I'm+Daniel+Duan!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&lines=Hi%2C+I'm+Daniel+Duan!)](https://git.io/typing-svg)
 
-<div>
 <img width = "35%" align="right" alt="PIC" height="300px" src="https://c.tenor.com/ee-uSWWIE28AAAAi/cute-penguin.gif" /> 
   </div>
 
