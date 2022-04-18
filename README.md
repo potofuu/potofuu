@@ -5,7 +5,7 @@
 
 ####  👨‍💻 About Me: 
 - I am a first year student at Georgia Tech, studying CS with threads(focus) in intelligence and media.  
-- I am interested AI/machine learning, data science, 
+- I am interested in AI/machine learning, data science, 
   and frontend development.  
 - In my free time, I enjoy playing tennis, practicing piano, and reading.
 
