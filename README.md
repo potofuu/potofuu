@@ -20,6 +20,8 @@
   <p>
 </div> 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=potofuu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <div>
   <h3> 🌱 Learning </h3>
   <img src="https://i.redd.it/tu3gt6ysfxq71.png" width="50">
@@ -28,9 +30,11 @@
 </div>
 
 <div>
-  <h3> 📪 Contact </h3>
+  <h3> 📪 More </h3>
   <a href="https://www.instagram.com/dan.duan/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="30"></a>
   <a href="https://www.linkedin.com/in/dlduan/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a>
   <a href="https://github.com/potofuu" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="30"></a>
   <a href="https://potofuu.github.io/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="GitHub" width="30"></a>
 </div>
+
+
