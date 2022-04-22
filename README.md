@@ -20,7 +20,7 @@
   <p>
 </div> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=potofuu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=potofuu&layout=compact)
 
 <div>
   <h3> 🌱 Learning </h3>
