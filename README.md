@@ -26,7 +26,7 @@
   <h3> 🌱 Learning </h3>
   <img src="https://i.redd.it/tu3gt6ysfxq71.png" width="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" width="45"> 
-  <img src="https://www.insights-solutions.com/wp-content/uploads/2018/11/SQL.png" width="60">
+<!--   <img src="https://www.insights-solutions.com/wp-content/uploads/2018/11/SQL.png" width="60"> -->
 </div>
 
 <div>
