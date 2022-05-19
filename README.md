@@ -1,9 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&lines=Hi%2C+I'm+Daniel+Duan!)](https://git.io/typing-svg)
 
-<img align="right" src="" /> 
+<!-- <img align="right" src="https://c.tenor.com/OwA9Jzdq0CkAAAAM/love-fast.gif"> -->
 
-
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=potofuu&layout=compact) -->
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=potofuu&layout=compact">
 ####  👨‍💻 About Me: 
+
 - I am a first year student at Georgia Tech, studying CS with threads(focus) in intelligence and media.  
 - I am interested in AI/machine learning, data science, 
   and frontend development.  
@@ -20,7 +22,6 @@
   <p>
 </div> 
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=potofuu&layout=compact) -->
 
 <div>
   <h3> 🌱 Learning </h3>
