@@ -1,7 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&lines=Hi%2C+I'm+Daniel+Duan!)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&lines=Hi%2C+I'm+Daniel+Duan!)](https://git.io/typing-svg)
 
-<!-- <img width = "50%" align="right" alt="PIC" height="50%" src="https://c.tenor.com/ee-uSWWIE28AAAAi/cute-penguin.gif" />  -->
-<img align="right" src="https://c.tenor.com/c_1_AznKl4YAAAAd/peach-and.gif">
+<img align="right" src="" /> 
+
 
 ####  👨‍💻 About Me: 
 - I am a first year student at Georgia Tech, studying CS with threads(focus) in intelligence and media.  
@@ -10,16 +10,15 @@
 - In my free time, I enjoy playing tennis, practicing piano, and reading.
 
 <div>
-  <h3> 💻 Technology </h3> 
+  <h3> 💻 Technology </h3>
   <p>
    <img src="https://raw.githubusercontent.com/nullptr7/nullptr7/master/resources/java-gif.gif" width="50">
    <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50">
    <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp"   width="50">
    <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50">
-   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
+    <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
   <p>
 </div> 
-
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=potofuu&layout=compact) -->
 
