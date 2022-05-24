@@ -3,7 +3,7 @@
 <!-- <img align="right" src="https://c.tenor.com/OwA9Jzdq0CkAAAAM/love-fast.gif"> -->
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=potofuu&layout=compact) -->
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=potofuu&layout=compact">
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=potofuu&layout=compact"> -->
 ####  👨‍💻 About Me: 
 
 - I am a first year student at Georgia Tech, studying CS with threads(focus) in intelligence and media.  
