@@ -6,7 +6,7 @@
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=potofuu&layout=compact"> -->
 ####  👨‍💻 About Me: 
 
-- I am a first year student at Georgia Tech, studying CS with threads(focus) in intelligence and media.  
+- I am a first year student at Georgia Tech.  
 - I am interested in AI/machine learning, data science, and frontend development.  
 
 <div>
