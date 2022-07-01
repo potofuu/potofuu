@@ -7,7 +7,7 @@
 ####  👨‍💻 About Me: 
 
 - I am a rising 2nd year CS student at Georgia Tech.  
-- I am interested in AI/machine learning, data science, and frontend development.  
+- I am interested in AI/machine learning, data science, and web development.  
 
 <div>
   <h3> 💻 Technology </h3>
