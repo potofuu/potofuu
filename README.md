@@ -33,7 +33,7 @@
   <a href="https://www.instagram.com/dan.duan/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="30"></a>
   <a href="https://www.linkedin.com/in/dlduan/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a>
   <a href="https://github.com/potofuu" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="30"></a>
-  <a href="https://potofuu.github.io/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="GitHub" width="30"></a>
+  <a href="daniel-portfolio-umber.vercel.app" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="GitHub" width="30"></a>
 </div>
 
 
