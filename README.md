@@ -4,7 +4,7 @@
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=potofuu&layout=compact) -->
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=potofuu&layout=compact"> -->
-####  👨‍💻 About Me: 
+<!-- ####  👨‍💻 About Me: 
 
 - I am a rising 2nd year CS student at Georgia Tech.  
 - I am interested in AI/machine learning, data science, and fullstack development.  
@@ -18,7 +18,7 @@
    <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50">
 <!--     <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100"> -->
   <p>
-</div> 
+</div>  
 
 <!--<div>
   <h3> 🌱 Learning </h3>
@@ -28,8 +28,6 @@
 </div> 
 
 <div>
-  <h3> 📪 More </h3>
-  <a href="https://www.instagram.com/dan.duan/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="30"></a>
   <a href="https://www.linkedin.com/in/dlduan/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a>
   <a href="https://daniel-portfolio-umber.vercel.app/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="GitHub" width="30"></a>
 </div>
