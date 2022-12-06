@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&lines=Hi%2C+I'm+Daniel+Duan!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&lines=Hi%2C+I'm+Daniel!)](https://git.io/typing-svg)
 
 <!-- <img align="right" src="https://c.tenor.com/OwA9Jzdq0CkAAAAM/love-fast.gif"> -->
 
